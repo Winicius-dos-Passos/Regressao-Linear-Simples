@@ -37,6 +37,6 @@ Este repositório foi criado como parte do desenvolvimento do meu portfólio em 
 3. Execute as células do Regressão_Linear_Simples.ipynb sequencialmente.
 
 ## 👨‍💻 Autor
-Desenvolvido por Winicius dos Passos
+Desenvolvido por **Winicius dos Passos**
 
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/winicius-dos-passos/)
