@@ -26,9 +26,17 @@ Este repositório foi criado como parte do desenvolvimento do meu portfólio em 
 1. **Entendimento dos Dados:** Leitura do arquivo `cars.csv` e verificação de valores nulos ou inconsistentes.
 2. **Análise de Correlação:** Utilização de gráficos de dispersão (scatter plots) para confirmar a tendência linear entre a variável dependente (alvo) e a variável independente (preditora).
 3. **Treinamento do Modelo:** Divisão dos dados (treino e teste) e ajuste da reta de regressão utilizando o `LinearRegression` do scikit-learn.
-4. **Avaliação:** Medição do desempenho do modelo (ex: R², Erro Quadrático Médio - MSE). *(Nota: Atualize esta linha com as métricas exatas que você obteve no final do seu notebook).*
+4. **Avaliação do Modelo:** O desempenho do modelo foi medido utilizando o Coeficiente de Determinação ($R^2$). O modelo obteve um **$R^2$ de 0.651**, o que indica que aproximadamente 65,1% da variância da nossa variável dependente é explicada pelo modelo linear.
 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório para a sua máquina local ou abra-o diretamente no Google Colab.
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/Winicius-dos-Passos/Regressao-Linear-Simples.git](https://github.com/Winicius-dos-Passos/Regressao-Linear-Simples.git)
+2. Certifique-se de que o arquivo cars.csv esteja no mesmo diretório que o Notebook (ou faça o upload do arquivo caso esteja utilizando o Colab).
+
+3. Execute as células do Regressão_Linear_Simples.ipynb sequencialmente.
+
+👨‍💻 Autor
+Desenvolvido por Winicius dos Passos
+
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/winicius-dos-passos/)
